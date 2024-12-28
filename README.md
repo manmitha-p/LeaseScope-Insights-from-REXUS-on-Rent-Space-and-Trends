@@ -29,5 +29,8 @@ The project uses the **REXUS (Real Estate Across the United States)** dataset, w
 
 ---
 
+## Link to the Looker Studio Dashboard
+https://lookerstudio.google.com/reporting/44ea8894-e5e1-4332-bc06-23c3a9781787
+
 ## Screenshot of Looker Studio Dashboard
-![Looker Studio Dashboard](./LeaseScope.pdf)
+![Looker Studio Dashboard](./LeaseScope.png)
